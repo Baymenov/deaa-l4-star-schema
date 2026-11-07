@@ -1,6 +1,7 @@
 # DEAA Lecture 4: Star Schema and SCD Type 2 in PostgreSQL
 
 Student: Nurbek Baymenov
+
 Group: 23-301
 
 ## About
